@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Route } from "react-router-dom";
-import 'Welcome' from './compnents/Welcome'
+import Welcome from './components/Welcome'
 
 class App extends Component {
   render() {
